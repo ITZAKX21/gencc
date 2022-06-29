@@ -8,7 +8,7 @@ pkg up -y
 pkg i python -y
 pip3 install lolcat
 pkg i git -y
-git clone https://github.com/AKXVAU/gencc
+git clone https://github.com/ITZAKX21/gencc
 cd gencc
 python run.py
 ````
